@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391bad9b-7b14-48a4-bd46-aeb67cb88c8e" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/ArrayDataEncryption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +40,24 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraySort">
+  <component name="RunManager" selected="Application.ArrayDataEncryption">
+    <configuration name="ArrayDataEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.ArrayDataEncryption" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hbnu.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hbnu.array.ArrayDemo" />
       <module name="OOP" />
@@ -74,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDataEncryption" />
         <item itemvalue="Application.ArraySort" />
         <item itemvalue="Application.ArrayDemo" />
       </list>
@@ -89,7 +102,7 @@
       <updated>1662975547509</updated>
       <workItem from="1662975549044" duration="198000" />
       <workItem from="1662975761862" duration="5168000" />
-      <workItem from="1663034427409" duration="1887000" />
+      <workItem from="1663034427409" duration="4146000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1662980801629</created>
@@ -105,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662981339169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="变更">
+      <created>1663036516755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663036516755</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
