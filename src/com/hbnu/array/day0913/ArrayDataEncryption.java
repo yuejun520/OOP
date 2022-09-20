@@ -1,4 +1,4 @@
-package com.hbnu.array;
+package com.hbnu.array.day0913;
 
 import java.util.Scanner;
 
