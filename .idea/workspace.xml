@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391bad9b-7b14-48a4-bd46-aeb67cb88c8e" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0919/DigitalBomb.java" afterDir="false" />
+    <list default="true" id="391bad9b-7b14-48a4-bd46-aeb67cb88c8e" name="变更" comment="数字炸弹">
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0919/RoundTableGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/PassParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/ReferenceCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/ThisDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,43 +37,17 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DigitalBomb">
-    <configuration name="ArrayDataEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0913.ArrayDataEncryption" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0913.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompareHeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0913.CompareHeight" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0913.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.RoundTableGame">
     <configuration name="DigitalBomb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0919.DigitalBomb" />
       <module name="OOP" />
@@ -83,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0913.ProcessControl" />
+    <configuration name="PassParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0920.PassParameters" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0913.*" />
+          <option name="PATTERN" value="com.hbnu.array.day0920.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0913.SeasonSelection" />
+    <configuration name="ReferenceCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0920.ReferenceCopy" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0913.*" />
+          <option name="PATTERN" value="com.hbnu.array.day0920.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoundTableGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0919.RoundTableGame" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hbnu.array.day0919.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0920.ThisDemo" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hbnu.array.day0920.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RoundTableGame" />
+        <item itemvalue="Application.ThisDemo" />
+        <item itemvalue="Application.ReferenceCopy" />
+        <item itemvalue="Application.PassParameters" />
         <item itemvalue="Application.DigitalBomb" />
-        <item itemvalue="Application.SeasonSelection" />
-        <item itemvalue="Application.ProcessControl" />
-        <item itemvalue="Application.CompareHeight" />
-        <item itemvalue="Application.ArrayDataEncryption" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +137,9 @@
       <workItem from="1663051497773" duration="4207000" />
       <workItem from="1663121134436" duration="4000" />
       <workItem from="1663638841230" duration="670000" />
-      <workItem from="1663639528517" duration="909000" />
+      <workItem from="1663639528517" duration="2540000" />
+      <workItem from="1663642103048" duration="2724000" />
+      <workItem from="1663644975147" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1662980801629</created>
@@ -177,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663639007284</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="数字炸弹">
+      <created>1663640511240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663640511240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +221,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="变更" />
-    <option name="LAST_COMMIT_MESSAGE" value="变更" />
+    <MESSAGE value="数字炸弹" />
+    <option name="LAST_COMMIT_MESSAGE" value="数字炸弹" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
