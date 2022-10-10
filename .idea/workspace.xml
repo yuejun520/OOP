@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391bad9b-7b14-48a4-bd46-aeb67cb88c8e" name="变更" comment="数字炸弹">
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0919/RoundTableGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/PassParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/ReferenceCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/ThisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/classstudy/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/classstudy/PassParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/classstudy/ReferenceCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0920/classstudy/ThisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0926/innerclass/InnerClassDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0926/innerclass/InnerClassDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0926/innerclass/InnerClassDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day0926/innerclass/InnerClassDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day1004/Login/LoginThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day1004/Login/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day1004/Sort/DefaultString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day1004/Sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hbnu/array/day1010/iostream/FileOperatorl1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +45,26 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.RoundTableGame">
-    <configuration name="DigitalBomb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0919.DigitalBomb" />
+}]]></component>
+  <component name="RunManager" selected="Application.FileOperatorl1">
+    <configuration name="FileOperatorl1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day1010.iostream.FileOperatorl1" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0919.*" />
+          <option name="PATTERN" value="com.hbnu.array.day1010.iostream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0920.PassParameters" />
+    <configuration name="InnerClassDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0926.innerclass.InnerClassDemo02" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0920.*" />
+          <option name="PATTERN" value="com.hbnu.array.day0926.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0920.ReferenceCopy" />
+    <configuration name="InnerClassDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0926.innerclass.InnerClassDemo03" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0920.*" />
+          <option name="PATTERN" value="com.hbnu.array.day0926.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoundTableGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0919.RoundTableGame" />
+    <configuration name="LoginThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day1004.Login.LoginThree" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0919.*" />
+          <option name="PATTERN" value="com.hbnu.array.day1004.Login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day0920.ThisDemo" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbnu.array.day1004.Sort.Sort" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hbnu.array.day0920.*" />
+          <option name="PATTERN" value="com.hbnu.array.day1004.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RoundTableGame" />
-        <item itemvalue="Application.ThisDemo" />
-        <item itemvalue="Application.ReferenceCopy" />
-        <item itemvalue="Application.PassParameters" />
-        <item itemvalue="Application.DigitalBomb" />
+        <item itemvalue="Application.FileOperatorl1" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.LoginThree" />
+        <item itemvalue="Application.InnerClassDemo03" />
+        <item itemvalue="Application.InnerClassDemo02" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +150,22 @@
       <workItem from="1663638841230" duration="670000" />
       <workItem from="1663639528517" duration="2540000" />
       <workItem from="1663642103048" duration="2724000" />
-      <workItem from="1663644975147" duration="1898000" />
+      <workItem from="1663644975147" duration="3979000" />
+      <workItem from="1663660722552" duration="9000" />
+      <workItem from="1664158109107" duration="3899000" />
+      <workItem from="1664180270007" duration="3908000" />
+      <workItem from="1664253047147" duration="594000" />
+      <workItem from="1664260839938" duration="2563000" />
+      <workItem from="1664289136629" duration="784000" />
+      <workItem from="1664332468619" duration="36000" />
+      <workItem from="1664849768394" duration="4409000" />
+      <workItem from="1664854578202" duration="2667000" />
+      <workItem from="1664864390716" duration="1070000" />
+      <workItem from="1664865593031" duration="667000" />
+      <workItem from="1664866758909" duration="51000" />
+      <workItem from="1664931473147" duration="5000" />
+      <workItem from="1664931898431" duration="13000" />
+      <workItem from="1665367265027" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1662980801629</created>
@@ -190,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663640511240</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="圆桌游戏">
+      <created>1663656417326</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663656417326</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +255,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="变更" />
     <MESSAGE value="数字炸弹" />
-    <option name="LAST_COMMIT_MESSAGE" value="数字炸弹" />
+    <MESSAGE value="圆桌游戏" />
+    <option name="LAST_COMMIT_MESSAGE" value="圆桌游戏" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
